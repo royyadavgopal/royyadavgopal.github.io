@@ -22,14 +22,16 @@ body{
 	background-color:#FF5D23; 
 }
 .headinfo{
-  background: transparent;
+  background: gray;
+  box-shadow: 2px 2px 2px gray;
+  opacity: 3;
 }
 .ghead{
-	margin-left: 150px;
+	margin-left: 50px;
 
 }
 .ginfo{
-	margin-left: 150px;
+	margin-left: 50px;
  }
  .product{
  	margin-top: 150px;
